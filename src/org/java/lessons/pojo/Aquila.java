@@ -47,6 +47,12 @@ public class Aquila extends Animale implements IVolante,INuotante {
 		System.out.println("sto nuotando!!!!");
 		
 	}
+	
+//	@Override
+//	public void volaONuota() {
+//			vola();
+//			nuota();
+//	}
 
 	
 }

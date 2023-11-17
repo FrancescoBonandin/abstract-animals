@@ -39,7 +39,11 @@ public class Passerotto  extends Animale implements IVolante {
 			
 			System.out.println("sto volando!!!");
 		}
-
+		
+//		@Override
+//		public void volaONuota() {
+//				vola();
+//		}
 		
 		
 	}

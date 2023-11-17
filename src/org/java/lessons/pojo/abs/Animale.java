@@ -46,7 +46,7 @@ public abstract class Animale  {
 
 	public abstract void mangia(); 
 
-
+//	public abstract void volaONuota();
 
 }
 

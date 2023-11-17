@@ -41,6 +41,11 @@ public class Cane extends Animale implements INuotante {
 		
 	}
 	
+//	@Override
+//	public void volaONuota() {
+//			nuota();
+//	}
+//	
 }
 
 

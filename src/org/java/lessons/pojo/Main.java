@@ -33,6 +33,8 @@ public class Main {
 			animals[x].verso();
 			animals[x].mangia();
 			
+//			animals[x].volaONuota();
+			
 			
 			if(animals[x] instanceof IVolante) {
 				

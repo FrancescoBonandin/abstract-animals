@@ -42,5 +42,9 @@ public class Delfino extends Animale implements INuotante{
 		
 	}
 	
+//	@Override
+//	public void volaONuota() {
+//			nuota();
+//	}
 
 }
